@@ -1,5 +1,3 @@
-package com.delyva.partnerapp.utils;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
